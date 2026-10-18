@@ -260,7 +260,7 @@ const months = [
         number: "month 5",
 
         type: "video",
-        media: "assets/month5.mp4",
+        media: "assets/month5.mov",
 
         text:
             "another hot video😘<br> girl i know u thirsting just looking at this bicep😍<br> i love u sooo much",
